@@ -1,6 +1,7 @@
 <p align="center" width="750"><img alt="coding" width="max" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif"></p>
 <h1 align="center">Hi 👋, I'm Camiel van Schoonhoven</h1>
 <h3 align="center">- An intrepid Full-Stack Developer from Victoria, BC -</h3>
+<a align="center" href="https://camiel.co.nz">Website</a>
 <br>
 
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
@@ -10,13 +11,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **AI-related projects**
+- 👯 I’m looking to collaborate on **Video game or AI-related projects**
 
 - 🤝 I’m looking for help with **Finding full-time employment!**
 
 - 👨‍💻 All of my projects are available at [camiel.co.nz/software](camiel.co.nz/software)
 
-- 💬 Ask me about **Blobby!**
+- 💬 Ask me about **the game I made: Blobby!**
 
 - 📫 How to reach me **utopiamusicnz@gmail.com**
 
