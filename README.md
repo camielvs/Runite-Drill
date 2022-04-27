@@ -23,7 +23,6 @@
 - ⚡ Fun fact **I compose music for video games!**
 
 <br>
-<br>
 <a href="https://camiel.co.nz">Visit my website</a>
 <br>
 <br>
