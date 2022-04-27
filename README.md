@@ -1,7 +1,6 @@
 <p align="center" width="750"><img alt="coding" width="max" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif"></p>
 <h1 align="center">Hi 👋, I'm Camiel van Schoonhoven</h1>
 <h3 align="center">- An intrepid Full-Stack Developer from Victoria, BC -</h3>
-<a align="center" href="https://camiel.co.nz">Website</a>
 <br>
 
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
@@ -23,6 +22,9 @@
 
 - ⚡ Fun fact **I compose music for video games!**
 
+<br>
+<br>
+<a href="https://camiel.co.nz">Visit my website</a>
 <br>
 <br>
 <h3 align="left">Languages:</h3>
