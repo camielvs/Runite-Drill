@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **the game I made: Blobby!**
 
-- 📫 How to reach me **utopiamusicnz@gmail.com**
+- 📫 How to reach me **camielengineering@gmail.com**
 
 - ⚡ Fun fact **I compose music for video games!**
 
