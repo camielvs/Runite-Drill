@@ -1,18 +1,18 @@
 <p align="center" width="750"><img alt="coding" width="max" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif"></p>
-<h1 align="center">Hi 👋, I'm Camiel van Schoonhoven</h1>
+<h1 align="center">Hi 👋, I'm Camiel</h1>
 <h3 align="center">- An intrepid Full-Stack Developer from Victoria, BC -</h3>
 <br>
 
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 <br>
 
-- 🔭 I’m currently working on **SEI-Immersive with General Assembly**
+- 🔭 I’m currently preparing to begin a new role with **Shopify**
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Video game or AI-related projects**
 
-- 🤝 I’m looking for help with **Finding full-time employment!**
+- 🤝 I’m looking for help with **getting established in the industry!**
 
 - 👨‍💻 All of my projects are available at [camiel.co.nz/software](camiel.co.nz/software)
 
