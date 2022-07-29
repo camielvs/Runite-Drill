@@ -6,13 +6,13 @@
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 <br>
 
-- 🔭 I’m currently preparing to begin a new role with **Shopify**
+- 🔭 I’m currently onboarding my new role with **Shopify**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby**
 
 - 👯 I’m looking to collaborate on **Video game or AI-related projects**
 
-- 🤝 I’m looking for help with **getting established in the industry!**
+- 🤝 I’m looking for help with **writing efficient code!**
 
 - 👨‍💻 All of my projects are available at [camiel.co.nz/software](camiel.co.nz/software)
 
